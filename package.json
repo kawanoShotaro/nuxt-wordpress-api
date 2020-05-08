@@ -1,0 +1,19 @@
+{
+  "name": "nuxtblog",
+  "version": "1.0.0",
+  "description": "My classy Nuxt.js project",
+  "author": "KawanoShotarou",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.9.7",
+    "dayjs": "^1.8.24",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {}
+}
